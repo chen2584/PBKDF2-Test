@@ -1,0 +1,10 @@
+/Users/mbp/Documents/Dotnet/consoleTest/bin/Debug/netcoreapp2.0/consoleTest.deps.json
+/Users/mbp/Documents/Dotnet/consoleTest/bin/Debug/netcoreapp2.0/consoleTest.runtimeconfig.json
+/Users/mbp/Documents/Dotnet/consoleTest/bin/Debug/netcoreapp2.0/consoleTest.runtimeconfig.dev.json
+/Users/mbp/Documents/Dotnet/consoleTest/bin/Debug/netcoreapp2.0/consoleTest.dll
+/Users/mbp/Documents/Dotnet/consoleTest/bin/Debug/netcoreapp2.0/consoleTest.pdb
+/Users/mbp/Documents/Dotnet/consoleTest/obj/Debug/netcoreapp2.0/consoleTest.csproj.CoreCompileInputs.cache
+/Users/mbp/Documents/Dotnet/consoleTest/obj/Debug/netcoreapp2.0/consoleTest.AssemblyInfoInputs.cache
+/Users/mbp/Documents/Dotnet/consoleTest/obj/Debug/netcoreapp2.0/consoleTest.AssemblyInfo.cs
+/Users/mbp/Documents/Dotnet/consoleTest/obj/Debug/netcoreapp2.0/consoleTest.dll
+/Users/mbp/Documents/Dotnet/consoleTest/obj/Debug/netcoreapp2.0/consoleTest.pdb
